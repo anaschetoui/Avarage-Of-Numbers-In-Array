@@ -4,4 +4,4 @@ This code generates an array of random numbers and calculates the average of tho
 # Features
 Generate an array of random numbers within a specified range.
 Compute the average of numbers in the array.
-Print the array of generated numbers.# Avarage-Of-Numbers-In-Array
+Print the array of generated numbers.
